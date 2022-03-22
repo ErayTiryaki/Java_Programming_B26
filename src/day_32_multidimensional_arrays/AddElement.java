@@ -37,5 +37,6 @@ public class AddElement {
         System.out.println("Enter the last number");
         expanded[expanded.length - 1] = input.nextInt();
         System.out.println(Arrays.toString(expanded));
+        System.out.println("titties");
     }
 }
